@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\allCode\\ap_all_code\\LR_7.3_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014872FE-DAB5-485A-9215-E2C8168FBC99}|UnitTest1\\UnitTest1.vcxproj|D:\\allCode\\ap_all_code\\LR_7.3_it\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{014872FE-DAB5-485A-9215-E2C8168FBC99}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98728FDA-0507-441F-B19B-5BD90C05AD3F}|LR_7.3_it.vcxproj|D:\\allCode\\ap_all_code\\LR_7.3_it\\LR_7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98728FDA-0507-441F-B19B-5BD90C05AD3F}|LR_7.3_it.vcxproj|solutionrelative:LR_7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\allCode\\ap_all_code\\LR_7.3_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\allCode\\ap_all_code\\LR_7.3_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:17:32.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR_7.3_it.cpp",
+              "DocumentMoniker": "D:\\allCode\\ap_all_code\\LR_7.3_it\\LR_7.3_it.cpp",
+              "RelativeDocumentMoniker": "LR_7.3_it.cpp",
+              "ToolTip": "D:\\allCode\\ap_all_code\\LR_7.3_it\\LR_7.3_it.cpp",
+              "RelativeToolTip": "LR_7.3_it.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T16:29:01.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
